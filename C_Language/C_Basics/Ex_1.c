@@ -2,7 +2,7 @@
 
 int main (){
 
-printf("hello world");
+printf("\nC Programming"); 
 
 return 0;
 }
