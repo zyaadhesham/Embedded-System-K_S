@@ -2,7 +2,7 @@
 
 int main (){
 
-/*int i, num, j;
+int i, num, j;
 
 printf("\nEnter the number ");
 scanf(" %d", &num);
@@ -15,12 +15,7 @@ for (i=0; i<=num; i++)
     }
     printf("\n");
 
-}*/
-char c = '/012';
-
-printf(" %d",c);
-
-
+}
 
     return 0;
 }
