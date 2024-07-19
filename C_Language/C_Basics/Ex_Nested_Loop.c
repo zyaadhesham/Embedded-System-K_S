@@ -2,8 +2,7 @@
 
 int main (){
 
-int j;
-int i, num;
+int i, num, j;
 
 printf("\nEnter the number ");
 scanf(" %d", &num);
@@ -15,7 +14,8 @@ for (i=0; i<=num; i++)
         printf(" %d",j);
     }
     printf("\n");
-    
+
 }
 
+    return 0;
 }
